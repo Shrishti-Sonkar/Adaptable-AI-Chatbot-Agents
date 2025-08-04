@@ -1,6 +1,6 @@
-# AI-Agent
+# Adaptable AI Chatbot Agents
 
-A modular, extensible AI chatbot agent framework built with Streamlit and LangGraph, allowing you to create and interact with multiple AI agents using various LLM providers (OpenAI, Groq, Tavily, etc.) and tools (web search, custom system prompts).
+A modular, extensible Adaptable AI Chatbot Agents framework built with Streamlit and LangGraph, allowing you to create and interact with multiple AI agents using various LLM providers (OpenAI, Groq, Tavily, etc.) and tools (web search, custom system prompts).
 
 ## Features
 
